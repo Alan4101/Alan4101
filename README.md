@@ -1,6 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Andrew</h1>
-<h3 align="center">I'm frontend developer</h3>
+<h1 align="center">👋 Hi there, I'm Andrii — Frontend Developer</h1>
 
+<p align="center">
+  ⚡ Passionate about building fast, accessible, and scalable web apps<br/>
+  🚀 Working mainly with <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrew-tolochkevytch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-tolochkevytch" height="30" width="40" /></a>
