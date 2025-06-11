@@ -24,12 +24,10 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   
   <!-- State/Form -->
-  <p>![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logoColor=white)</p>
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React Hook Form" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   
   <!-- UI Libraries -->
-  <p>![Shadcn](https://img.shields.io/badge/Shadcn_UI-111827?style=flat&logoColor=white)</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
 
   <!-- Tooling -->
@@ -39,6 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
+<p align="left">  
+  ![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logoColor=white)
+  ![Shadcn](https://img.shields.io/badge/Shadcn_UI-111827?style=flat&logoColor=white)
+</p>
 ---
 
 ### 📋 Form Libraries I've worked with
