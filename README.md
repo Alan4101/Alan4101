@@ -19,7 +19,7 @@
   <!-- Tailwind CSS (manual SVG) -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <!-- Zustand (custom hosted logo or fallback text icon) -->
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Zustand" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="Zustand" width="40" height="40"/>
   <!-- React Hook Form (fallback badge style) -->
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="React Hook Form" width="40" height="40"/>
 </p>
