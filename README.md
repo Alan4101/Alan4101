@@ -37,9 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-<p align="left">  
+<p align="left">
+  
   ![Zustand](https://img.shields.io/badge/Zustand-000?style=flat&logoColor=white)
   ![Shadcn](https://img.shields.io/badge/Shadcn_UI-111827?style=flat&logoColor=white)
+
 </p>
 ---
 
