@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🕓 4+ years of experience in frontend development
+- 🕓 5+ years of experience in frontend development
 - 🧩 Strong focus on forms, complex UI state management, and performance
 - 🛠️ Built custom CMS solutions using Nextjs & modern tooling
 - 🧱 Passionate about building scalable design systems and component libraries
